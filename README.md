@@ -1,13 +1,13 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="200" />
     <h1 align="center">Hi 👋, I'm Francisco</h1>
-    <p align="center">I am a passionate software developer with a strong focus on backend development. My expertise lies in Java and Spring, as well as Node.js and the Nest framework. Additionally, I have experience in implementing cloud solutions using AWS and managing deployments with Azure DevOps.</p>
+ <h3 align="center">A passionate fullstack web developer from Colombia. I like Java and Node.</h3>
 </div>
 ---
 
 ### 👨‍💻 About Me :
 
-- 📝 I work as a full stack web developer
+- 📝I am a passionate software developer with a strong focus on backend development. My expertise lies in Java and Spring, as well as Node.js and the Nest framework. Additionally, I have experience in implementing cloud solutions using AWS and managing deployments with Azure DevOps.
 
 - 📫 How to reach me **franorther@gmail.com**
 
