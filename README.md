@@ -12,7 +12,7 @@
 - 📫 How to reach me **franorther@gmail.com**
 
 -🎯 Skills: 
-- Programming Languages: JavaScript and TypeScript
+- Programming Languages: TypeScript and Java
 - Technologies and Frameworks: Node.js and Nest
 - Cloud Platforms: Amazon Web Services (AWS) and Azure DevOps
 - Databases: MongoDB, MySQL, Postgresql
